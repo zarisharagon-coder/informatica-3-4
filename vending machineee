@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main(void){
+    //Variables Doritos //
+float price1 = 1.25;
+int quantity1= 20;
+char selection= 'D';
+
+//Variable Dragonfruit Refreshener
+float price2= 6.50;
+int quantity2= 23;
+char slection 'S';
+
+//Variable Peanuts Bag
+float price2= 0.75;
+int quantity2= 30;
+char slection 'C';
+//print stock of vending machine
+printf("Vending machine Srock\n");
+printf("---------------------------")
+printf("Iten name: Doritos\n")
+
+
+
+---------------------------
+Item name:  Doritos
+Price: $1.25
+Quantity available: 20
+Selection code: D
+
+Item name: Dragonfruit refreshener
+Price: $6.50
+Quantity available: 23
+Selection code: S
+
+Item name: Peanuts Bag
+Price: $0.75
+Quantity available: 30
+Selection code: C
+}
