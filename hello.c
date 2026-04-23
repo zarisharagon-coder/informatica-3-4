@@ -2,6 +2,15 @@
 
 int main(void)
 {
-    printf("Hello EnriqueZarishAndalonIbarra \n");
+   char name[50];
+    printf("Enter your name: ");
+    scanf("%s", &name, &);
+    printf("Hello %s!\n",name);
+
+    char color[50];
+    printf("enter your favorite color: ");
+    scanf("%s", &color);
+    printf("%s sucks!")
 }
+
 
