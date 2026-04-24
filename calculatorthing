@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void){
+    //Variables squareorwtv //
+float lenght = 20;
+int width= 20;
+int length= 40;
+int area= (width*length)
+
