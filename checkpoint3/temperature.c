@@ -14,5 +14,4 @@ celcius = (farenheit - 32) / 1.8;
 printf("farenheit: %d\n", farenheit);
 printf("celcius: %.2f\n", celcius);
 
-return 0;
 }
